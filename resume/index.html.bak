@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>myresume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table border="1" align="center" width="70%"> 
+        <tr>
+            <th>
+                <h1 style="color:green"><i><b><u>My Resume</u></b></i></h1>
+            </th>
+        </tr>
+        <tr>
+            <th align="left">
+                <h3 style="color:blue"><b>JAYSHANKAR KUMAR</b><br>
+                    <br>
+                <img src="mypic.jpg" align="right" height="250" width="200" border="2" style="color:black">
+                <b>software Developer|front End and Backend Developer</b><br></h3>
+              <b><u>Mobile No:</u>7277182513</b><br>
+              <br>
+              <b><u>Email Id:</u>jayshankar123@gmail.com</b><br>
+              <br>
+              <b><u>Address:</u>HNo 51 isuapur saran (bihar)<br>INDIA</b><br>
+              <br>
+              <b><u>Pin Code:841411</u></b>
+              <h2 style="color:red"><u>Personal Information</u></h2>
+              <ul>
+                  <li>
+                      <b>
+                         Work Experience:No[Fresher] 
+                      </b>
+                  </li>
+                  <li>
+                    <b>
+                        Religion:Hindu   
+                      </b> 
+                  </li>
+                  <li>
+                      <b>
+                          Date of Birth:17-06-2001
+                      </b>
+                  </li>
+                  <li>
+                      <b>
+                        Martial Status:Un-Married 
+                      </b>
+                      
+                  </li>
+                 
+              </ul>
+            <h2 style="color:red"><u>Academy Details</u></h2>
+           <table border="1">
+               <tr>
+                 <th>
+                     Examination
+                 </th>
+                 <th>
+                     Board/University
+                 </th> 
+                 <th>
+                     Percentage
+                 </th>
+                 <th>
+                     Year of Passing
+                 </th> 
+               </tr>
+                <tr>
+                    <td>
+                        High School[10]
+                    </td>
+                    <td>
+                        CBSE
+                    </td>
+                    <td>
+                        94%
+                    </td>
+                    <td>
+                        2016
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Secondary School  [12]
+                    </td>
+                    <td>
+                        CBSE
+                    </td>
+                    <td>
+                        80%
+                    </td>
+                    <td>
+                        2018
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Be computer science [12+]
+                    </td>
+                    <td>
+                      GTU
+                    </td>
+                    <td>
+                      8.7 CGPA
+                    </td>
+                    <td>
+                       2021
+                    </td>
+                </tr>
+           </table>
+           <h2 style="color:red"><u>Language</u></h2>
+            <ul>
+                <li>
+                    <b>HINDI</b>
+                </li>
+                <li>
+                    <b>English</b>
+                </li>
+            </ul>   
+           <h2 style="color:red"><u>Skill and Certificate</u></h2>
+          <ul>
+            <li>
+              <b>hackerrank certificate</b>  
+            </li>
+            <li>
+                <b>
+                  Cisco Networking  
+                </b>
+               
+            </li>
+            <li>
+                <b>oracle certificate</b>
+
+                </li>
+                <li><b>HTML, CSS, JAVA Script</b></li>
+                <li>
+                    <b> C, JAVA, PYTHON</b>
+                </li>
+
+          </ul>
+        <h2 style="color:red"><u>My college project</u></h2>
+        <ul>
+            <li>
+                <b>Ecommerce website</b>
+                <b>Myshoping</b>
+            </li>
+            <li>
+                <b>fundraising website</b>
+                <b>fundraising website</b>
+            </li>
+
+        </ul>
+    </th>
+        </tr>
+    </table>
+</body>
+</html>

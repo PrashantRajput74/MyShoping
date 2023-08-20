@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sahayata  | Fundraising website Design</title>
+     <link rel="stylesheet" href="style1.css">
+     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,600&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+           
+</head>
+<body>
+      <div class="header">
+	  
+	  
+	  
+      <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <img src="images/Sahayata.png" width=125px">
+				
+ 
+            </div> 
+            <nav>
+                <ul> 
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Product</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Contact</a></li>
+                    <li><a href="">Account</a></li>
+ 
+                </ul>
+            </nav>
+			
+            <img src="images/cart.png "width="30px" height="30px"> 
+			 <img src="images/menu.png " class="menu-icon"> 
+ 
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <h1>Always have a willing hand to help someone<br> you might be the only one that does<br></h1>
+                 <p>Success isn't always about greatness.It's about
+                     consistency. Consistent<br> hard work gains success .Greatness
+                     will come.
+                 </p>
+                 <a href=" " class=" btn ">Explore now &#10095;</a>
+            </div>
+            <div class="col-2">
+                <img src="images/child.png" alt="">
+
+            </div>
+        </div>
+
+      </div>
+      
+
+    </div>
+    <!-------faeture categories-->
+	<div class ="small-container">
+	
+    <div class="categories">
+        <div class="row">
+        <div class="col-3">
+            <img src="images/banner4.png" height=220>
+        </div>
+        <div class="col-3">
+            <img src="images/banner2.png">
+        </div>
+        <div class="col-3">
+            <img src="images/banner3.png">
+        </div>
+        </div>
+		</div>
+		<img src="images/graphic1.png" width=100%>
+
+    </div>
+    <!----------feature product-->
+	<div>
+    <div class="small-container">
+        <h2 class="title">Featured Products  </h2>
+        <div class="row">
+            <div class="col-4">
+              <img src="images/banner5.png"> 
+                
+            </div> 
+            <div class="col-4">
+                <img src="images/banner6.png">
+                <h4>Red Product T-Shirt</h4>
+                    
+
+            </div> 
+            <div class="col-4">
+                <img src="images/banner7.png">
+                <h4>Black Watch </h4>
+
+            </div> 
+            <div class="col-4">
+                <img src="images/product-11.jpg">
+                <h4>Gray shoe</h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                         
+                    </div>
+                <p>Rs. 999.00</p>
+
+                </div>
+		
+	    </div>
+		</div>
+		<!-------offer----->
+		<div class="offer">
+		<div class ="small-container">
+		<div class="row">
+		<div class="col-2">
+		<img src="images/exclusive.png" class="offer-img">
+		</div>
+		<div class="col-2">
+		<p>Available on Myshoping </p>
+		<h1>smart watch 4</h1>
+		<small>the mi Smart watch .Almond color full touch display</small>
+		<a href="" class="btn">Buy Now &#8594;</a>
+		
+		</div>
+		  </div>
+		 </div>
+     </div>
+	</div>
+	<!--testimonial-->
+	 <div class="testimonial">
+	 <div class="small-container">
+	 <div class="row">
+	 <div class="col-3">
+	 <i class="fa fa-quote-left"></i>
+	 <p> A testimonial is a statement from a past customer 
+	 that describes how a product or service helped them.</p>
+	      <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                         <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                         
+                    </div>
+		    <img src="images/user-1.png" alt="">
+			<h3>Sean Parker</h3>
+	   </div>
+	   <div class="col-3">
+	 <i class="fa fa-quote-left"></i>
+	 <p> A testimonial is a statement from a past customer 
+	 that describes how a product or service helped them.</p>
+	      <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                         <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                         
+                    </div>
+		    <img src="images/user-2.png" alt="">
+			<h3>john</h3>
+	   </div>
+	   <div class="col-3">
+	 <i class="fa fa-quote-left"></i>
+	 <p> A testimonial is a statement from a past customer 
+	 that describes how a product or service helped them.</p>
+	      <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                         <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                         
+                    </div>
+		    <img src="images/user-3.png" alt="">
+			<h3>smith</h3>
+	   </div>
+	  </div>
+	 </div>
+	 </div>
+	 <!---brand---->
+	 <div class="brand">
+	   <div class="small-container">
+	    <div class="row">
+		  <div class="col-5">
+		  <img src="images/logo-godrej.png" alt="">
+		  </div>
+		  <div class="col-5">
+		  <img src="images/logo-oppo.png" alt="">
+		  </div>
+		  <div class="col-5">
+		  <img src="images/logo-coca-cola.png" alt="">
+		  </div>
+		  <div class="col-5">
+		  <img src="images/logo-paypal.png" alt="">
+		  </div>
+		  <div class="col-5">
+		  <img src="images/logo-philips.png" alt="">
+		  </div>
+		  </div>
+		  </div>
+	 </div>
+	 <!------footer---->
+	 <div class="footer">
+	   <div class="small-container">
+	   <div class="row">
+	   <div class="footer-col-1">
+	    <h3>Download our APP</h3>
+		<p>Download App for Android and ios mobile phone.</p>
+	   </div>
+	   <div class="footer-col-2">
+	   <img src="images/78.jpg" alt="">
+		<p>Download App for Android and ios mobile phone.</p>
+		<img src="images/play-store.png">
+	    <img src="images/app-store.png">
+	   </div>
+	     <div class="footer-col-4">
+		 <h3>follow us</h3>
+		 <ul>
+		    <li>Facebook</li>
+			<li>Twiter</li>
+			<li>Instaram</li>
+			<li>youtube</li>
+			<ul>
+			</div>
+			
+	     </div>
+		  </div>
+		  </div>
+</body>
+</html>
